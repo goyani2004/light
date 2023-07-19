@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Leser Light</string>
+
+    <array name="custom_colors">
+        <item>#219806</item>
+        <item>#F44336</item>
+        <item>#FFEB3B</item>
+    </array>
+
+    <string name="common_permission_alert">Authorization reminder</string>
+    <string name="common_permission_fail_hint">Authorization failed, please grant permission correctly</string>
+    <string name="common_permission_fail_assign_hint">Authorization failed, please grant %s correctly</string>
+    <string name="common_permission_manual_fail_hint">Failed to obtain permission, please grant permission manually</string>
+    <string name="common_permission_manual_assign_fail_hint">Failed to obtain permission, please grant %s manually</string>
+    <string name="common_permission_background_location_fail_hint">Failed to obtain background location permission,\nPlease select "Allow all the time"</string>
+    <string name="common_permission_background_sensors_fail_hint">Failed to obtain background sensor permission.\nPlease select "Allow all the time"</string>
+    <string name="common_permission_media_location_hint_fail">Failed to get media location permission\nPlease clear app data and try again</string>
+    <string name="common_permission_goto_setting_page">Go to Setting</string>
+
+    <string name="common_permission_unknown">permission</string>
+    <string name="common_permission_description">Permission description</string>
+    <string name="common_permission_message">%s needs to be granted to use this feature</string>
+    <string name="common_permission_granted">Granted</string>
+    <string name="common_permission_denied">Denied</string>
+    <string name="common_permission_storage">Storage permission</string>
+    <string name="pick_image_intent_chooser_title">Select source</string>
+
+</resources>
